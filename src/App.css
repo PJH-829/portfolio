@@ -59,3 +59,17 @@ h2{
   text-align: center;
 }
 
+
+.about-list{
+  position: relative;
+  top: 50px;
+  line-height: 3;
+  font-size: 20px;  
+}
+
+.div-list {
+  position: relative;
+  top: 60px;
+  line-height: 2;
+  font-size: 20px;
+}

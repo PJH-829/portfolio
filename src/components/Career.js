@@ -4,7 +4,7 @@ function Career() {
   return (
     <section id="career" className="career">
       <h2>Career</h2>
-      <div>
+      <div className='div-list'>
         <h3>하이문</h3>
         <p>제 47차 인공지능 국제적 차원 논의 홍보전략팀원 (2023.04 ~ 2023.08)</p>
         <h3>AIESEC</h3>
